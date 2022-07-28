@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277512896513",
+    "project_id": "fimal-new-project",
+    "storage_bucket": "fimal-new-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277512896513:android:e6762954a596d3b5ce4000",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277512896513-jjbp18ued1qpthdh11dq8lhej57v0u95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJI-WItO5dUvZwwBljvBhGi6kLaIB2vbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277512896513-jjbp18ued1qpthdh11dq8lhej57v0u95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
